@@ -1,0 +1,10 @@
+{
+  "name"          : "js-yaml",
+  "description"   : "YAML 1.2 parser and serializer",
+  "keywords"      : ["yaml", "parser", "serializer", "pyyaml"],
+  "repo"          : "thrucker/js-yaml",
+  "main"          : "index_component.js",
+  "scripts"       : ["index_component.js", "dist/js-yaml.js"],
+  "version"       : "3.3.1",
+  "license"       : "MIT"
+}
